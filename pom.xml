@@ -47,6 +47,8 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<!--JPA, MySql e H2 -->
 
 	<build>
 		<plugins>
